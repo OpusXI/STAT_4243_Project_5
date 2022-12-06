@@ -1,11 +1,11 @@
-# Project 4: Machine Learning Fairness
+# Project 5: Free Topic (Sports Analytics)
 
 ### [Project Description](doc/project4_desc.md)
 
 Term: Fall 2022
 
 + Team #1
-+ Project title: Sports Analytics
++ Project title: Finding cheapest team to qualify for Champions League in La Liga
 + Team members
 	+ Cheng, Louis yc3733@columbia.edu
 	+ Limaye, Dhruv djl2187@columbia.edu
