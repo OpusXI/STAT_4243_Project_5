@@ -77,7 +77,7 @@ goalkeep = goalkeep[['Player','Squad','PSxG']]
 master = pd.merge(master,goalkeep,on=['Player','Squad'],how="outer")
 master.fillna(0,inplace=True)
 
-master.drop(master.index[533],inplace=True)
+master.drop(master.index[533:],inplace=True)
 
 master.to_csv("player_stats.csv")
 
